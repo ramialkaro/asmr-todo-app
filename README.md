@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# ASMR-Todo App Readme
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to ASMR-Todo, a todo list application built with ReactJS and TailwindCSS. This minimalist todo app not only helps you organize your tasks efficiently but also provides a calming ASMR experience while you manage your todos.
 
-## Available Scripts
+## YouTube link
+[![ramialkaro](https://youtu.be/PklnSdC8Gmw)](https://youtu.be/PklnSdC8Gmw)
 
-In the project directory, you can run:
+## Screenshots
+![Screenshot 1](screenshots/1.png)
 
-### `npm start`
+## Features
+- **Create Todos:** Easily create new todos with a soothing interface.
+- **Delete Todos:** Remove completed or unnecessary todos effortlessly.
+- **Toggle Done/Undo:** Mark todos as done or undo them with a single click, maintaining your productivity flow.
+- **Save Todos Locally:** Your todos are saved locally in your browser's storage, ensuring they persist between sessions.
+- **Date Filters:** Filter todos based on date, including options for yesterday, today, tomorrow, and others.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
+- **ReactJS:** A popular JavaScript library for building user interfaces.
+- **TailwindCSS:** A utility-first CSS framework for creating custom designs quickly.
+- **LocalStorage API:** Utilized to save todos locally within the browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation and Usage
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run `npm install` to install the necessary dependencies.
+4. Start the development server by running `npm start`.
+5. Access the application in your web browser at `http://localhost:3000`.
 
-### `npm test`
+## How to Contribute
+Contributions are welcome! If you'd like to enhance ASMR-Todo with new features, improve existing ones, or fix bugs, follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/improvement-fix`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature/improvement/fix'`).
+5. Push to the branch (`git push origin feature/improvement-fix`).
+6. Create a pull request explaining your changes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+Feel free to watch other videos on channel. Happy todo-listing with ASMR-Todo! 🌟
